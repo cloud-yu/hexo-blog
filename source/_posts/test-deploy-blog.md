@@ -156,10 +156,10 @@ $$
 
 $$
 \begin{pmatrix}
-a & b\\
-c & d\\
-\hline
-1 & 0\\
+a & b\\\\
+c & d\\\\
+\\hline
+1 & 0\\\\
 0 & 1
 \end{pmatrix}
 $$
